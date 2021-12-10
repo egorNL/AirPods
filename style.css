@@ -106,7 +106,7 @@ nav ul li a:hover {
     grid-template-rows: auto;
     grid-gap: 2rem;
     margin-top: 150px;
-    margin-bottom: 150px;
+    margin-bottom: 250px;
     box-sizing: border-box;
     justify-items: center;
     align-items: center;
