@@ -6,7 +6,7 @@
 }
 
 ._container {
-    max-width: 1250px;
+    max-width: 1150px;
     margin: 0 auto;
     padding: 0 15px;
 }
@@ -106,6 +106,7 @@ nav ul li a:hover {
     grid-template-rows: auto;
     grid-gap: 2rem;
     margin-top: 150px;
+    margin-bottom: 150px;
     box-sizing: border-box;
     justify-items: center;
     align-items: center;
