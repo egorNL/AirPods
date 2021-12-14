@@ -173,6 +173,14 @@ nav ul li a:hover {
   
 }
 
+footer {
+    font-size: 10px;
+    clear: both; /* Sets the element from both edges to the bottom */
+    text-align: center;
+    margin-top: 150px;
+    
+}
+
 @media (max-width: 884px) {
     .main {
         height: auto;
